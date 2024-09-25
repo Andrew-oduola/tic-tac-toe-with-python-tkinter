@@ -278,6 +278,7 @@ def restart_game():
     global possible_choices, winner
     possible_choices = [1, 2, 3, 4, 5, 6, 7, 8, 9]
     winner = ''
+    turn_counter = 1
     single_btn['state'] = ACTIVE
     multi_btn['state'] = ACTIVE
     button1['text'] = ''
