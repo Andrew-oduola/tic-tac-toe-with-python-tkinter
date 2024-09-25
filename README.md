@@ -3,9 +3,9 @@
 This is a simple Tic-Tac-Toe game built using Python and Tkinter for the GUI. The game allows two players to take turns and play the classic game of Tic-Tac-Toe. The project demonstrates basic concepts of game development, GUI programming, and Python logic.
 
 ## Demo
-![Tic Tac Toe Game](images\game_first_display.png)
-![Tic Tac Toe Game](images\o3_wins.png)
-![Tic Tac Toe Game](images\x_wins.png)
+![Tic Tac Toe Game](images/game_first_display.png)
+![Tic Tac Toe Game](images/o3_wins.png)
+![Tic Tac Toe Game](images/x_wins.png)
 
 Watch the full video tutorial on YouTube: [Tic-Tac-Toe Game with Tkinter](https://www.youtube.com/watch?v=0h63TJwyfYs&list=PLxSseczazYPyUKcKKot7yaWYegfJI5chb)
 
